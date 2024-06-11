@@ -1,4 +1,4 @@
-# Sorting-by-Height---Factory-IO
+# Sorting by Height - Factory IO
 Sort cardboard boxes by height using a chain transfer.
 
 ![Sorting by Height (Basic).](/scenario.png)
