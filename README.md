@@ -3,4 +3,4 @@ Sort cardboard boxes by height using a chain transfer.
 
 ![Sorting by Height (Basic).](/scenario.png)
 
-Realizado a análise do cenário, foi desenvolvida uma solução de automação da cena utilizando a linguagem LADDER, da norma IEC 61131-3. Em seguida, após a gravação da solução no microprocessador ESP32, foi realizado a comunicação da cena via Modbus Ethernet e, identificado, analisado e configurado todas as variáveis do processo no Factory IO, foi possível controlar a cena através do microprocessador.
+Once the scenario had been analyzed, a solution was developed to automate the scene using the language LADDER, from the IEC 61131-3 standard. Next, after recording the solution on the ESP32 microprocessor, the scene was communicated via Modbus Ethernet and once all the process variables had been identified, analyzed and configured in Factory IO, it was possible to control the scene via the microprocessor.
